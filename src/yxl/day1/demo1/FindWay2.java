@@ -1,8 +1,4 @@
-package yxl.demo1;
-
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Scanner;
+package yxl.day1.demo1;
 
 public class FindWay2 {
 

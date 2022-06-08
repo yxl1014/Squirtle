@@ -1,4 +1,4 @@
-package yxl.demo;
+package yxl.day1.demo;
 
 import java.util.Random;
 
